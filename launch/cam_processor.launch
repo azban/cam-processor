@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="cam_processor" type="src/cam_processor.py" name="cam_processor" />
+</launch>
